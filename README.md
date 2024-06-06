@@ -9,7 +9,7 @@
 ```
 $ npm install
 ```
-Add ffmpeg.bin file into project folder or use one already there.
+Add ffmpeg.bin file into a project folder or use one already there.
 
 ## How to use
 
