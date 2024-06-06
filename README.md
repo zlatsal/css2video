@@ -1,5 +1,7 @@
 ![css2video](https://github.com/zlatsal/css2video/assets/54914295/ce7808c6-eac4-4ca8-a75b-e1a03a90a3a5)
-
+<p align="center">
+  <img src="https://github.com/zlatsal/css2video/assets/54914295/ce7808c6-eac4-4ca8-a75b-e1a03a90a3a5">
+</p>
 <h2 align="middle">Css2Video</h2>
 
 <p align="middle">🎬 Css2Video is a css animation to video converter which can be extended for wide range of usage.</p>
