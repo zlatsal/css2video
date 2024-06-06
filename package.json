@@ -1,0 +1,23 @@
+{
+  "name": "css2video",
+  "version": "1.0.0",
+  "description": "Css animation to video converter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  "css",
+  "animation",
+  "video",
+  "mp4",
+  "converter",
+  "ffmpeg"
+  ],
+  "author": "Zlatan Salkic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.44.1"
+  }
+}
