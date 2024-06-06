@@ -27,7 +27,7 @@ You can use exported frame images in the frames folder to import it into After E
 If you like this project please give it a star.
 
 ## Contact me at LinkedIn
-<a href="https://www.linkedin.com/in/zlatansalkic"
+<a href="https://www.linkedin.com/in/zlatansalkic">Zlatan Salkic</a>
 
 ## 📝 License
 
