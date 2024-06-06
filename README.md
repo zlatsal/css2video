@@ -5,5 +5,5 @@
 
 ## ⚙️ Installation
 ```
-$ npm install
+npm install
 ```
