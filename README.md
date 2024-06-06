@@ -1,4 +1,3 @@
-![css2video](https://github.com/zlatsal/css2video/assets/54914295/ce7808c6-eac4-4ca8-a75b-e1a03a90a3a5)
 <p align="center">
   <img src="https://github.com/zlatsal/css2video/assets/54914295/ce7808c6-eac4-4ca8-a75b-e1a03a90a3a5">
 </p>
@@ -26,6 +25,9 @@ You can use exported frame images in the frames folder to import it into After E
 
 ## Support this project with ⭐
 If you like this project please give it a star.
+
+## Contact me at LinkedIn
+<a href="https://www.linkedin.com/in/zlatansalkic"
 
 ## 📝 License
 
